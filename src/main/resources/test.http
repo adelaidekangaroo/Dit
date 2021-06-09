@@ -1,0 +1,2 @@
+GET http://localhost:8080/rest/messages
+Accept: application/json
